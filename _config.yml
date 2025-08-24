@@ -46,6 +46,26 @@ collections:
     output: true
     permalink: /:path/
 
+nav:
+  - title: "Home"
+    url: /
+  - title: "Story"
+    url: /story/
+  - title: "Portfolio"
+    children:
+      - title: "Research"
+        url: /portfolio/research/
+      - title: "Education & Columns"
+        url: /portfolio/education/
+      - title: "Exam Solutions"
+        url: /portfolio/exams/
+  - title: "Blog"
+    url: /blog/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+
 defaults:
   - scope:
       path: ""
@@ -69,5 +89,5 @@ minimal_mistakes_skin: "air"
 seo:
   type: Person
 
-# Languages (simple manual approach; add /ko/ pages if needed)
+# Language
 lang: en
