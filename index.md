@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Crafting a documented life"
+title: "Young Choi - Crafting a documented life"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
@@ -10,7 +10,7 @@ header:
       url: /story/
     - label: "View Portfolio"
       url: /portfolio/
-excerpt: "A living website that weaves together my life story, research, creations, and notes."
+excerpt: "A journey through research, teaching, and engineering — turning struggles into growth."
 ---
 
 Welcome — this site is my **documented portfolio**: a place where I connect _life events_ with _works_ and _ideas_.
