@@ -1,8 +1,8 @@
 title: "Choi Young — Documented Life Portfolio"
 name: "Choi Young"
 description: "A documented portfolio — story, research, creations, and life."
-url: ""  # e.g., https://username.github.io or https://yourdomain.com
-baseurl: "" # leave blank if using root
+url: "https://youngchoi-arrieta.github.io"
+baseurl: "/system_engineer"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
