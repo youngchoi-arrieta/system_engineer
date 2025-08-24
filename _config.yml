@@ -1,0 +1,73 @@
+title: "Choi Young — Documented Life Portfolio"
+name: "Choi Young"
+description: "A documented portfolio — story, research, creations, and life."
+url: ""  # e.g., https://username.github.io or https://yourdomain.com
+baseurl: "" # leave blank if using root
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 10
+paginate_path: /blog/page:num/
+timezone: America/Bogota
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-include-cache
+
+# Author
+author:
+  name: "Choi Young"
+  avatar: /assets/images/avatar-placeholder.png
+  bio: "Physicist → applied engineering path. Science, imaging, and life design."
+  location: "Santa Marta, Colombia"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your@email.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/"
+
+# Navigation
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "air"
+
+# Search/SEO
+seo:
+  type: Person
+
+# Languages (simple manual approach; add /ko/ pages if needed)
+lang: en
