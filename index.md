@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Young Choi - Crafting a documented life"
+title: "Crafting a documented life"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
