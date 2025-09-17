@@ -12,15 +12,6 @@ permalink: /EEstudy/
 
 ## 편입학 기출문제집  
 
-- [회로이론 기출문제집](https://youngchoi-arrieta.github.io/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf)  
-- [전자기학 기출문제집](https://youngchoi-arrieta.github.io/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_electromagnetics.pdf)  
+- [부산대 및 경북대 편입학고사 기출문제 풀이 (1) 회로이론 (2025-2020년도)](https://youngchoi-arrieta.github.io/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf)  
+- [부산대 및 경북대 편입학고사 기출문제 풀이 (2) 전자기학 (2025-2020년도)](https://youngchoi-arrieta.github.io/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_electromagnetics.pdf)  
 
----
-
-## 뷰어로 바로 보기  
-
-### 회로이론 기출문제집
-<iframe src="/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf" width="100%" height="600px"></iframe>  
-
-### 전자기학 기출문제집
-<iframe src="/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_electromagnetics.pdf" width="100%" height="600px"></iframe>  
