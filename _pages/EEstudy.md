@@ -13,12 +13,12 @@ layout: single
 ## 📘 편입학 기출문제집
 
 ### 전자기학
-<embed src="/system_engineer/EEstudy/univtransfer/em_exam.pdf" type="application/pdf" width="100%" height="600px" />
-[📥 다운로드](/system_engineer/EEstudy/univtransfer/em_exam.pdf)
+<embed src="/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_electromagnetics.pdf" type="application/pdf" width="100%" height="600px" />
+[📥 다운로드](/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_electromagnetics.pdf)
 
 ### 회로이론
-<embed src="/system_engineer/EEstudy/univtransfer/circuit_exam.pdf" type="application/pdf" width="100%" height="600px" />
-[📥 다운로드](/system_engineer/EEstudy/univtransfer/circuit_exam.pdf)
+<embed src="/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf" type="application/pdf" width="100%" height="600px" />
+[📥 다운로드](/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf)
 
 ---
 
