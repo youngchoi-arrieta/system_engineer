@@ -15,7 +15,7 @@ layout: single
 
 ### 회로이론 (2025-2020년도) [📥 Download](/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf)
 
-Disclaimer : 일부 문제 유형이 과하게 중복되는 문제의 해설은 수록하지 않음. 
+#### Disclaimer : 일부 문제 유형이 과하게 중복되는 문제의 해설은 수록하지 않음. 
 ---
 
 ## 일본 전기주임기술자 시험문제 한글 번역 및 솔루션 자료
