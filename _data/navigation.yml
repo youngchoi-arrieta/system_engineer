@@ -11,6 +11,8 @@ main:
         url: /portfolio/education/
       - title: "Exam Solutions"
         url: /portfolio/exams/
+  - title: "전기공학 학습"
+    url: /EEstudy/
   - title: "Blog"
     url: /blog/
   - title: "About"
