@@ -1,6 +1,6 @@
 ---
 title: "전기공학 학습 포트폴리오"
-permalink: /engineering/
+permalink: /EEstudy/
 layout: single
 ---
 
