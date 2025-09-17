@@ -10,7 +10,7 @@ layout: single
 
 ---
 
-## 📘 편입학 기출문제집
+## 📘 부산대 및 경북대 전기공학과 편입학전형 기출문제집
 
 ### 전자기학
 <embed src="/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_electromagnetics.pdf" type="application/pdf" width="100%" height="600px" />
@@ -20,16 +20,8 @@ layout: single
 <embed src="/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf" type="application/pdf" width="100%" height="600px" />
 [📥 다운로드](/system_engineer/EEstudy/univtransfer/Univ_Transfer_pastpapers_circuit_theory.pdf)
 
----
-
-## 전공 솔루션 모음
-(예시)
-<embed src="/system_engineer/EEstudy/solutions/sadiku_ch3.pdf" type="application/pdf" width="100%" height="600px" />
-[📥 다운로드](/system_engineer/EEstudy/solutions/sadiku_ch3.pdf)
 
 ---
 
-## 덴켄 솔루션
-(예시)
-<embed src="/system_engineer/EEstudy/denken/denken_q1.pdf" type="application/pdf" width="100%" height="600px" />
-[📥 다운로드](/system_engineer/EEstudy/denken/denken_q1.pdf)
+## 일본 전기주임기술자 시험문제 한글 번역 및 솔루션 자료
+
