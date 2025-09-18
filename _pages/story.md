@@ -1,6 +1,6 @@
 ---
-title: Story
-permalink: /story/
+title: Education
+permalink: /education/
 ---
 
 Use this space as a **timeline** or **chaptered narrative**.
