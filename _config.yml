@@ -43,22 +43,22 @@ author:
 # Navigation
 nav:
   - title: "Home"
-    url: /
+    url: "{{ site.baseurl }}/"
   - title: "Study"
-    url: /study/
+    url: "{{ site.baseurl }}/study/"
     children:
       - title: "Engineering"
-        url: /study/engineering/
+        url: "{{ site.baseurl }}/study/engineering/"
   - title: "Research"
-    url: /research/
+    url: "{{ site.baseurl }}/research/"
   - title: "Education"
-    url: /education/
+    url: "{{ site.baseurl }}/education/"
   - title: "Blog"
-    url: /blog/
+    url: "{{ site.baseurl }}/blog/"
   - title: "EEstudy"
-    url: /EEstudy/
+    url: "{{ site.baseurl }}/EEstudy/"
   - title: "Contact"
-    url: /contact/
+    url: "{{ site.baseurl }}/contact/"
 
 include:
   - _pages 
