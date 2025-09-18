@@ -88,3 +88,7 @@ seo:
 
 # Language
 lang: en
+
+# Minimal Mistakes masthead/nav
+masthead:
+  nav: "nav"
