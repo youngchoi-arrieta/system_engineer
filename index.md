@@ -5,6 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: /assets/images/cover-placeholder.jpg
+  show_overlay_nav: true
   actions:
     - label: "Study Portfolio"
       url: /study/
