@@ -2,14 +2,14 @@ main:
   - title: "Home"
     url: /
   - title: "Study"
-    url: /study/
+    url: /study/index.md
     children:
           - title: "5급 전기직 기술고시 문제풀이"
-            url: /study/engineering/gov_exam/
+            url: /study/engineering/gisulgosi.md
           - title: "일본 전기주임기술자 문제풀이"
-            url: /study/engineering/denken1/
+            url: /study/engineering/denken.md
           - title: "국립대 전기공학과 편입학고사 문제풀이"
-            url: /study/engineering/univtransfer/
+            url: /study/engineering/univtransfer.md
       - title: "Physics"
         url: /study/physics/
       - title: "Math"
