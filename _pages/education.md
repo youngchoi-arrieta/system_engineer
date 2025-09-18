@@ -1,6 +1,7 @@
 ---
 title: Education
 permalink: /education/
+layout: single
 ---
 
 Use this space as a **timeline** or **chaptered narrative**.
