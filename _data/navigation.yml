@@ -5,11 +5,11 @@ main:
     url: /study/studyindex.md
     children:
           - title: "5급 전기직 기술고시 문제풀이"
-            url: /study/engineering/gisulgosi.md
+            url: /study/engineering/gisulgosi.html
           - title: "일본 전기주임기술자 문제풀이"
-            url: /study/engineering/denken.md
+            url: /study/engineering/denken.html
           - title: "국립대 전기공학과 편입학고사 문제풀이"
-            url: /study/engineering/univtransfer.md
+            url: /study/engineering/univtransfer.html
       - title: "Physics"
         url: /study/physics/
       - title: "Math"
