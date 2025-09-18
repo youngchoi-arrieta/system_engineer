@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-permalink: /portfolio/
+title: Research
+permalink: /research/
 ---
 
 A curated set of selected works. Group by **Research**, **Engineering**, **Writing**, **Media**.
