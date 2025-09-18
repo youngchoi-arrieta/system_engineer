@@ -3,35 +3,11 @@ main:
     url: /
   - title: "Study"
     url: /study/
-    - title: "Engineering"
-        url: /study/engineering/
-        children:
-          - title: "5급 전기직 기술고시 문제풀이"
-            url: /study/engineering/gisulgosi.html
-          - title: "일본 전기주임기술자 문제풀이"
-            url: /study/engineering/denken.html
-          - title: "국립대 전기공학과 편입학고사 문제풀이"
-            url: /study/engineering/univtransfer.html
-      - title: "Physics"
-        url: /study/physics/
-      - title: "Math"
-        url: /study/math/
   - title: "Research"
     url: /research/
-    children:
-      - title: "Peer-reviewed Research"
-        url: /research/superresolution/
-      - title: "Journal club"
-        url: /research/journalclub/
   - title: "Education"
     url: /education/
-    children:
-      - title: "고등수학 칼럼"
-        url: /education/math/
-      - title: "고등물리 칼럼"
-        url: /education/physics/
-      - title: "고등지구과학 칼럼"
-        url: /education/earthscience/
+
   - title: "Blog"
     url: /blog/
   - title: "EEstudy"
