@@ -6,11 +6,13 @@ header:
   overlay_filter: "0.35"
   overlay_image: /assets/images/cover-placeholder.jpg
   actions:
-    - label: "Read the Story"
-      url: /story/
-    - label: "View Portfolio"
+    - label: "Study Portfolio"
+      url: /EEstudy/
+    - label: "Research Portfolio"
       url: /portfolio/
-excerpt: "A journey through research, teaching, and engineering — turning struggles into growth."
+    - label: "Education Portfolio"
+      url: /education/        
+excerpt: "A journey through study, research, and education — turning struggles into growth."
 ---
 
-Welcome — this site is my **documented portfolio**: a place where I connect _life events_ with _works_ and _ideas_.
+Welcome — this site is my **documented portfolio**: a place where I share my works throughout my life history.
