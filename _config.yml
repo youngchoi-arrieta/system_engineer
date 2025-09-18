@@ -1,21 +1,15 @@
 title: "Young Choi - The Crafted Life"
-name: "Choi Young"
 description: "A journey through research, teaching, and engineering — turning struggles into growth."
-url: "https://youngchoi-arrieta.github.io"
+url: "https://USERNAME.github.io"
 baseurl: "/system_engineer"
 
-# Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-# Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
-paginate: 10
-paginate_path: /blog/page:num/
 timezone: America/Bogota
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -23,24 +17,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Author
 author:
   name: "Choi Young"
   avatar: /assets/images/avatar-placeholder.png
   bio: "Physicist → applied engineering path. Science, imaging, and life design."
   location: "Santa Marta, Colombia"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:your@email.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/"
 
-# Navigation
 nav:
   - title: "Home"
     url: "{{ site.baseurl }}/"
@@ -53,42 +35,3 @@ nav:
     url: "{{ site.baseurl }}/research/"
   - title: "Education"
     url: "{{ site.baseurl }}/education/"
-  - title: "Blog"
-    url: "{{ site.baseurl }}/blog/"
-  - title: "EEstudy"
-    url: "{{ site.baseurl }}/EEstudy/"
-  - title: "Contact"
-    url: "{{ site.baseurl }}/contact/"
-
-include:
-  - _pages 
-  
-defaults:
-  - scope:
-      path: "_pages"
-      type: "pages"
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-
-# Minimal Mistakes settings
-minimal_mistakes_skin: "air"
-
-# Search/SEO
-seo:
-  type: Person
-
-# Language
-lang: en
-
-# Minimal Mistakes masthead/nav
-masthead:
-  nav: "nav"
