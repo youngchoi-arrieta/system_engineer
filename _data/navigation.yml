@@ -1,21 +1,34 @@
 main:
   - title: "Home"
     url: /
-  - title: "Story"
-    url: /story/
-  - title: "Portfolio"
+  - title: "Study"
+    url: /study/
     children:
-      - title: "Research"
-        url: /portfolio/research/
-      - title: "Education & Columns"
-        url: /portfolio/education/
-      - title: "Exam Solutions"
-        url: /portfolio/exams/
-  - title: "Electrical Engineering"
-    url: /EEstudy/
+      - title: "Engineering"
+        url: /study/engineering/
+      - title: "Physics"
+        url: /study/physics/
+      - title: "Math"
+        url: /study/math/
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Peer-reviewed Research"
+        url: /research/superresolution/
+      - title: "Journal club"
+        url: /research/journalclub/
+  - title: "Education"
+    url: /education/
+    children:
+      - title: "고등수학 칼럼"
+        url: /education/math/
+      - title: "고등물리 칼럼"
+        url: /education/physics/
+      - title: "고등지구과학 칼럼"
+        url: /education/earthscience/
   - title: "Blog"
     url: /blog/
-  - title: "About"
-    url: /about/
+  - title: "EEstudy"
+    url: /EEstudy/
   - title: "Contact"
     url: /contact/
