@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/cover-placeholder.jpg
   actions:
     - label: "Study Portfolio"
-      url: /EEstudy/
+      url: /study/
     - label: "Research Portfolio"
       url: /portfolio/
     - label: "Education Portfolio"
