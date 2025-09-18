@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Study"
-    url: /study/index.md
+    url: /study/studyindex.md
     children:
           - title: "5급 전기직 기술고시 문제풀이"
             url: /study/engineering/gisulgosi.md
