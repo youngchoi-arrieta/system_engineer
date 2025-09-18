@@ -1,6 +1,6 @@
 ---
 title: "Study"
-permalink: /study/studyindex/
+permalink: /study/
 layout: single
 ---
 
