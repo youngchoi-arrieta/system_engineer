@@ -57,7 +57,9 @@ nav:
   - title: "Contact"
     url: /contact/
 
-
+include:
+  - _pages 
+  
 defaults:
   - scope:
       path: "_pages"
