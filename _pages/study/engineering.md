@@ -1,7 +1,7 @@
 ---
 title: "Engineering"
 permalink: /study/engineering/
-layout : single
+layout: single
 ---
 
 # Engineering
