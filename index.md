@@ -9,7 +9,7 @@ header:
     - label: "Study Portfolio"
       url: /study/
     - label: "Research Portfolio"
-      url: /portfolio/
+      url: /research/
     - label: "Education Portfolio"
       url: /education/        
 excerpt: "A journey through study, research, and education — turning struggles into growth."
