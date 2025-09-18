@@ -1,6 +1,7 @@
 ---
 title: Contact
 permalink: /contact/
+layout: single
 ---
 
 - Email: ychoi0917@gmail.com  
