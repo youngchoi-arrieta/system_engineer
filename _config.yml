@@ -46,6 +46,9 @@ nav:
     url: /
   - title: "Study"
     url: /study/
+    children:
+      - title: "Engineering"
+        url: /study/engineering/
   - title: "Research"
     url: /research/
   - title: "Education"
