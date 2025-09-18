@@ -3,7 +3,7 @@ title: Contact
 permalink: /contact/
 ---
 
-- Email: your@email.com  
+- Email: ychoi0917@gmail.com  
 - LinkedIn: <https://www.linkedin.com/>  
 - GitHub: <https://github.com/>
 
