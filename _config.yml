@@ -40,31 +40,7 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/"
 
-# Navigation
-collections:
-  pages:
-    output: true
-    permalink: /:path/
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "Story"
-    url: /story/
-  - title: "Portfolio"
-    children:
-      - title: "Research"
-        url: /portfolio/research/
-      - title: "Education & Columns"
-        url: /portfolio/education/
-      - title: "Exam Solutions"
-        url: /portfolio/exams/
-  - title: "Blog"
-    url: /blog/
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
 
 defaults:
   - scope:
