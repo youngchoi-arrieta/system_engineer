@@ -40,6 +40,22 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/"
 
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Study"
+    url: /study/
+  - title: "Research"
+    url: /research/
+  - title: "Education"
+    url: /education/
+  - title: "Blog"
+    url: /blog/
+  - title: "EEstudy"
+    url: /EEstudy/
+  - title: "Contact"
+    url: /contact/
 
 
 defaults:
